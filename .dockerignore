@@ -1,0 +1,14 @@
+rignore · DOCKERIGNORE
+__pycache__/
+*.pyc
+.git
+.gitignore
+.env
+venv/
+.venv/
+db.sqlite3
+media/
+staticfiles/
+.idea/
+.vscode/
+*.log
